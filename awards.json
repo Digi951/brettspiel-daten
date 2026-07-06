@@ -1,4 +1,6 @@
 {
+  "version": 1,
+  "language": "de",
   "updated": "2026-07-06",
   "awards": [
     { "year": 2011, "category": "spiel", "title": "Qwirkle", "description": "Farben und Formen clever zu Reihen kombinieren" },

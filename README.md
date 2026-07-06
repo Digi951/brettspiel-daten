@@ -12,7 +12,7 @@ Jahres ab 2011. Wird von der App zur Laufzeit von
 ### Schema
 
 ```json
-{ "updated": "YYYY-MM-DD", "awards": [ { "year": 2024, "category": "spiel|kennerspiel|kinderspiel", "title": "…" } ] }
+{ "version": 1, "language": "de", "updated": "YYYY-MM-DD", "awards": [ { "year": 2024, "category": "spiel|kennerspiel|kinderspiel", "title": "…", "description": "…" } ] }
 ```
 
 Neue Felder dürfen ergänzt werden (die App ignoriert Unbekanntes). Unbekannte
