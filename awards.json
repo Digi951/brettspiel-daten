@@ -1,52 +1,909 @@
 {
   "version": 1,
   "language": "de",
-  "updated": "2026-07-06",
+  "updated": "2026-07-07",
   "awards": [
-    { "year": 2011, "category": "spiel", "title": "Qwirkle", "description": "Farben und Formen clever zu Reihen kombinieren" },
-    { "year": 2012, "category": "spiel", "title": "Kingdom Builder", "description": "Königreiche auf stets wechselnden Landschaften errichten" },
-    { "year": 2013, "category": "spiel", "title": "Hanabi", "description": "Kooperatives Feuerwerk — die eigenen Karten sieht nur das Team" },
-    { "year": 2014, "category": "spiel", "title": "Camel Up", "description": "Turbulentes Wettrennen mit gestapelten Kamelen" },
-    { "year": 2015, "category": "spiel", "title": "Colt Express", "description": "Zugüberfall im Wilden Westen mit geplanten Aktionen im 3D-Zug" },
-    { "year": 2016, "category": "spiel", "title": "Codenames", "description": "Team-Wortspiel: Agenten mit Ein-Wort-Hinweisen enttarnen" },
-    { "year": 2017, "category": "spiel", "title": "Kingdomino", "description": "Domino-Legespiel um das schönste Königreich" },
-    { "year": 2018, "category": "spiel", "title": "Azul", "description": "Abstraktes Legespiel um portugiesische Fliesenmuster" },
-    { "year": 2019, "category": "spiel", "title": "Just One", "description": "Kooperatives Wortraten — doppelte Hinweise fallen weg" },
-    { "year": 2020, "category": "spiel", "title": "Pictures", "description": "Bilder mit Schnürsenkeln, Bauklötzen und Steinen nachbauen" },
-    { "year": 2021, "category": "spiel", "title": "MicroMacro: Crime City", "description": "Wimmelbild-Krimi: Fälle auf einer riesigen Stadtkarte lösen" },
-    { "year": 2022, "category": "spiel", "title": "Cascadia", "description": "Ruhiges Legespiel um Landschaften und Tiere Nordamerikas" },
-    { "year": 2023, "category": "spiel", "title": "Dorfromantik – Das Brettspiel", "description": "Kooperativ idyllische Dorflandschaften puzzeln" },
-    { "year": 2024, "category": "spiel", "title": "Sky Team", "description": "Kooperative Flugzeuglandung für genau zwei im Cockpit" },
-    { "year": 2025, "category": "spiel", "title": "Bomb Busters", "description": "Kooperativ die richtigen Drähte kappen und Bomben entschärfen" },
-    { "year": 2011, "category": "kennerspiel", "title": "7 Wonders", "description": "Zivilisationen über drei Zeitalter draften" },
-    { "year": 2012, "category": "kennerspiel", "title": "Village", "description": "Dorfleben über Generationen — die Zeit fordert ihren Tribut" },
-    { "year": 2013, "category": "kennerspiel", "title": "Die Legenden von Andor", "description": "Kooperatives Fantasy-Abenteuer mit erzählten Legenden" },
-    { "year": 2014, "category": "kennerspiel", "title": "Istanbul", "description": "Mit Gehilfen durch den Basar zum reichsten Händler" },
-    { "year": 2015, "category": "kennerspiel", "title": "Broom Service", "description": "Mutig oder feige? Hexen liefern Tränke durchs Land" },
-    { "year": 2016, "category": "kennerspiel", "title": "Isle of Skye: Vom Häuptling zum König", "description": "Landschaften kaufen und verkaufen — den Preis machst du selbst" },
-    { "year": 2017, "category": "kennerspiel", "title": "Exit – Das Spiel", "description": "Escape Room für zu Hause — das Material wird Teil des Rätsels" },
-    { "year": 2018, "category": "kennerspiel", "title": "Die Quacksalber von Quedlinburg", "description": "Zutaten aus dem Beutel ziehen, ohne den Kessel zu sprengen" },
-    { "year": 2019, "category": "kennerspiel", "title": "Flügelschlag", "description": "Vögel anlocken und eine Voliere voller Kombos aufbauen" },
-    { "year": 2020, "category": "kennerspiel", "title": "Die Crew", "description": "Kooperatives Stichspiel auf Mission zum neunten Planeten" },
-    { "year": 2021, "category": "kennerspiel", "title": "Paleo", "description": "Kooperatives Steinzeit-Überleben in Kartenabenteuern" },
-    { "year": 2022, "category": "kennerspiel", "title": "Living Forest", "description": "Waldgeister sammeln, Bäume pflanzen, das Feuer stoppen" },
-    { "year": 2023, "category": "kennerspiel", "title": "Challengers!", "description": "Turnier-Deckbau mit acht schnellen Duellen pro Partie" },
-    { "year": 2024, "category": "kennerspiel", "title": "e-Mission", "description": "Kooperativ die Klimakrise abwenden" },
-    { "year": 2025, "category": "kennerspiel", "title": "Endeavor: Die Tiefsee", "description": "Expeditionen in die Tiefsee zwischen Forschung und Artenschutz" },
-    { "year": 2011, "category": "kinderspiel", "title": "Da ist der Wurm drin", "description": "Wettlauf der bunten Würmer durchs Gemüsebeet" },
-    { "year": 2012, "category": "kinderspiel", "title": "Schnappt Hubi!", "description": "Elektronische Geisterjagd durchs Spukhaus" },
-    { "year": 2013, "category": "kinderspiel", "title": "Der verzauberte Turm", "description": "Magnetische Schlüsselsuche um die gefangene Prinzessin" },
-    { "year": 2014, "category": "kinderspiel", "title": "Geister, Geister, Schatzsuchmeister!", "description": "Kooperative Schatzsuche im Spukhaus" },
-    { "year": 2015, "category": "kinderspiel", "title": "Spinderella", "description": "Spinnen seilen sich auf flüchtende Ameisen ab" },
-    { "year": 2016, "category": "kinderspiel", "title": "Stone Age Junior", "description": "Sammeln, tauschen und bauen in der Steinzeit" },
-    { "year": 2017, "category": "kinderspiel", "title": "Icecool", "description": "Pinguine durch die Schule schnippen" },
-    { "year": 2018, "category": "kinderspiel", "title": "Funkelschatz", "description": "Funkelsteine unter schmelzenden Eissäulen ergattern" },
-    { "year": 2019, "category": "kinderspiel", "title": "Tal der Wikinger", "description": "Fässer kegeln und mutig Punkte kassieren" },
-    { "year": 2020, "category": "kinderspiel", "title": "Speedy Roll", "description": "Igel-Rennen mit klebrigem Fellball" },
-    { "year": 2021, "category": "kinderspiel", "title": "Dragomino", "description": "Domino für Kleine: Dracheneier entdecken" },
-    { "year": 2022, "category": "kinderspiel", "title": "Zauberberg", "description": "Kugeln sausen den Berg hinab — kooperativ schneller als die Hexen" },
-    { "year": 2023, "category": "kinderspiel", "title": "Mysterium Kids: Der Schatz des Kapitän Buh", "description": "Geräusche-Rätsel mit dem Tamburin-Geist" },
-    { "year": 2024, "category": "kinderspiel", "title": "Die magischen Schlüssel", "description": "Schlüssel probieren und Schätze schnappen" },
-    { "year": 2025, "category": "kinderspiel", "title": "Topp die Torte", "description": "Zuckerwürfel schätzen und Torten türmen" }
+    {
+      "year": 1979,
+      "category": "spiel",
+      "title": "Hase und Igel",
+      "description": "Karottenrennen mit Rückwärtsschritten auf dem Ringparcours",
+      "translations": {
+        "en": {
+          "title": "Hare & Tortoise"
+        }
+      }
+    },
+    {
+      "year": 1980,
+      "category": "spiel",
+      "title": "Rummikub",
+      "description": "Zahlenreihen und Sätze mit Ziehsteinen legen und umbauen",
+      "translations": {
+        "en": {
+          "title": "Rummikub",
+          "description": "Lay down and rearrange number runs and sets with tiles"
+        }
+      }
+    },
+    {
+      "year": 1981,
+      "category": "spiel",
+      "title": "Focus",
+      "description": "Abstraktes Steinschieben um die letzte Kontrolle im Feld",
+      "translations": {
+        "en": {
+          "title": "Focus",
+          "description": "Abstract stacking game about pushing pieces for board control"
+        }
+      }
+    },
+    {
+      "year": 1982,
+      "category": "spiel",
+      "title": "Sagaland",
+      "description": "Zauberwesen im Wald suchen, bevor der Rivale sie findet"
+    },
+    {
+      "year": 1983,
+      "category": "spiel",
+      "title": "Scotland Yard",
+      "description": "Kooperative Verfolgungsjagd durch London gegen Mister X",
+      "translations": {
+        "en": {
+          "title": "Scotland Yard",
+          "description": "A cooperative chase through London to catch Mister X"
+        }
+      }
+    },
+    {
+      "year": 1984,
+      "category": "spiel",
+      "title": "Dampfross",
+      "description": "Schienennetze quer durch Nordamerika verlegen"
+    },
+    {
+      "year": 1985,
+      "category": "spiel",
+      "title": "Sherlock Holmes Criminal-Cabinet",
+      "description": "Kriminalfälle per Kartei und Hinweisen lösen"
+    },
+    {
+      "year": 1986,
+      "category": "spiel",
+      "title": "Heimlich & Co.",
+      "description": "Geheimagenten unbemerkt durchs Haus schleusen",
+      "translations": {
+        "en": {
+          "title": "Top Secret Spies",
+          "description": "Sneak secret agents unseen through the house"
+        }
+      }
+    },
+    {
+      "year": 1987,
+      "category": "spiel",
+      "title": "Auf Achse",
+      "description": "Speditionsfuhren quer durch Europa planen"
+    },
+    {
+      "year": 1988,
+      "category": "spiel",
+      "title": "Barbarossa und die Rätselmeister",
+      "description": "Knetfiguren erraten und Rätsel um die Wette lösen",
+      "translations": {
+        "en": {
+          "title": "Barbarossa",
+          "description": "Guess clay figures and race to solve riddles"
+        }
+      }
+    },
+    {
+      "year": 1989,
+      "category": "spiel",
+      "title": "Café International",
+      "description": "Gäste passend zu ihrer Herkunft ans Tischtuch setzen",
+      "translations": {
+        "en": {
+          "title": "Café International",
+          "description": "Seat guests at the tablecloth to match their home country"
+        }
+      }
+    },
+    {
+      "year": 1990,
+      "category": "spiel",
+      "title": "Adel verpflichtet",
+      "description": "Auf Auktionen wertvolle Kunstschätze für die Sammlung ersteigern"
+    },
+    {
+      "year": 1991,
+      "category": "spiel",
+      "title": "Drunter und Drüber",
+      "description": "Deiche bauen und Nachbargrundstücke geschickt verschieben"
+    },
+    {
+      "year": 1992,
+      "category": "spiel",
+      "title": "Um Reifenbreite",
+      "description": "Radrennen taktisch mit Windschatten und Spurwahl fahren"
+    },
+    {
+      "year": 1993,
+      "category": "spiel",
+      "title": "Bluff",
+      "description": "Würfel unter dem Becher verdeckt schätzen und bluffen"
+    },
+    {
+      "year": 1994,
+      "category": "spiel",
+      "title": "Manhattan",
+      "description": "Wolkenkratzer über die Dächer der Nachbarn hinaus bauen",
+      "translations": {
+        "en": {
+          "title": "Manhattan",
+          "description": "Build skyscrapers up and over your neighbors' rooftops"
+        }
+      }
+    },
+    {
+      "year": 1995,
+      "category": "spiel",
+      "title": "Die Siedler von Catan",
+      "description": "Rohstoffe handeln und die Insel Catan besiedeln",
+      "translations": {
+        "en": {
+          "title": "The Settlers of Catan",
+          "description": "Trade resources and settle the island of Catan"
+        }
+      },
+      "aliases": [
+        "Catan"
+      ]
+    },
+    {
+      "year": 1996,
+      "category": "spiel",
+      "title": "El Grande",
+      "description": "Grande-Karten ausspielen und Macht in Spaniens Regionen sichern",
+      "translations": {
+        "en": {
+          "title": "El Grande",
+          "description": "Play Grande cards to secure power across Spain's regions"
+        }
+      }
+    },
+    {
+      "year": 1997,
+      "category": "spiel",
+      "title": "Mississippi Queen",
+      "description": "Raddampfer-Rennen den Fluss hinauf mit Schaufelradantrieb",
+      "translations": {
+        "en": {
+          "title": "Mississippi Queen",
+          "description": "Paddle-wheel steamboat race up the river"
+        }
+      }
+    },
+    {
+      "year": 1998,
+      "category": "spiel",
+      "title": "Elfenland",
+      "description": "Elfenvölker mit Fabelwesen quer durchs Land reisen lassen",
+      "translations": {
+        "en": {
+          "title": "Elfenland",
+          "description": "Send elf folk traveling across the land on fantastical mounts"
+        }
+      }
+    },
+    {
+      "year": 1999,
+      "category": "spiel",
+      "title": "Tikal",
+      "description": "Expeditionen ins Dschungeltempel-Gebiet mit begrenzten Aktionspunkten",
+      "translations": {
+        "en": {
+          "title": "Tikal",
+          "description": "Jungle temple expeditions with a limited pool of action points"
+        }
+      }
+    },
+    {
+      "year": 2000,
+      "category": "spiel",
+      "title": "Torres",
+      "description": "Burgen bauen und Ritter geschickt in Position bringen",
+      "translations": {
+        "en": {
+          "title": "Torres",
+          "description": "Build castles and maneuver knights into position"
+        }
+      }
+    },
+    {
+      "year": 2001,
+      "category": "spiel",
+      "title": "Carcassonne",
+      "description": "Landschaftsplättchen legen und Gebiete mit Gefolgsleuten sichern",
+      "translations": {
+        "en": {
+          "title": "Carcassonne",
+          "description": "Lay landscape tiles and claim territory with your followers"
+        }
+      }
+    },
+    {
+      "year": 2002,
+      "category": "spiel",
+      "title": "Villa Paletti",
+      "description": "Säulen balancieren, bevor die Villa in sich zusammenfällt",
+      "translations": {
+        "en": {
+          "title": "Villa Paletti",
+          "description": "Balance pillars before the villa collapses"
+        }
+      }
+    },
+    {
+      "year": 2003,
+      "category": "spiel",
+      "title": "Alhambra",
+      "description": "Bauteile kaufen und den prächtigsten Palast errichten",
+      "translations": {
+        "en": {
+          "title": "Alhambra",
+          "description": "Buy building tiles and construct the finest palace"
+        }
+      }
+    },
+    {
+      "year": 2004,
+      "category": "spiel",
+      "title": "Zug um Zug",
+      "description": "Streckenkarten sammeln und Zugverbindungen quer durch den Kontinent bauen",
+      "translations": {
+        "en": {
+          "title": "Ticket to Ride",
+          "description": "Collect route cards and build train connections across the continent"
+        }
+      }
+    },
+    {
+      "year": 2005,
+      "category": "spiel",
+      "title": "Niagara",
+      "description": "Kanus geschickt steuern, ohne über den Wasserfall zu stürzen",
+      "translations": {
+        "en": {
+          "title": "Niagara",
+          "description": "Steer canoes skillfully without going over the falls"
+        }
+      }
+    },
+    {
+      "year": 2006,
+      "category": "spiel",
+      "title": "Thurn und Taxis",
+      "description": "Postrouten aufbauen und das Kutschennetz erweitern",
+      "translations": {
+        "en": {
+          "title": "Thurn and Taxis",
+          "description": "Build postal routes and expand your carriage network"
+        }
+      }
+    },
+    {
+      "year": 2007,
+      "category": "spiel",
+      "title": "Zooloretto",
+      "description": "Tiere sammeln und den eigenen Zoo klug bestücken",
+      "translations": {
+        "en": {
+          "title": "Zooloretto",
+          "description": "Collect animals and stock your own zoo wisely"
+        }
+      }
+    },
+    {
+      "year": 2008,
+      "category": "spiel",
+      "title": "Keltis",
+      "description": "Wege auf keltischen Pfaden mit passenden Karten vorantreiben",
+      "translations": {
+        "en": {
+          "title": "Keltis",
+          "description": "Advance along Celtic paths by playing matching cards"
+        }
+      }
+    },
+    {
+      "year": 2009,
+      "category": "spiel",
+      "title": "Dominion",
+      "description": "Deckbau-Pionier: das eigene Kartendeck stetig verbessern",
+      "translations": {
+        "en": {
+          "title": "Dominion",
+          "description": "The deckbuilding pioneer: steadily improve your own card deck"
+        }
+      }
+    },
+    {
+      "year": 2010,
+      "category": "spiel",
+      "title": "Dixit",
+      "description": "Bildkarten mit poetischen Hinweisen erraten",
+      "translations": {
+        "en": {
+          "title": "Dixit",
+          "description": "Guess picture cards from poetic one-word clues"
+        }
+      }
+    },
+    {
+      "year": 2011,
+      "category": "spiel",
+      "title": "Qwirkle",
+      "description": "Farben und Formen clever zu Reihen kombinieren",
+      "translations": {
+        "en": {
+          "title": "Qwirkle",
+          "description": "Cleverly combine colors and shapes into matching rows"
+        }
+      }
+    },
+    {
+      "year": 2012,
+      "category": "spiel",
+      "title": "Kingdom Builder",
+      "description": "Königreiche auf stets wechselnden Landschaften errichten",
+      "translations": {
+        "en": {
+          "title": "Kingdom Builder",
+          "description": "Build your kingdom across ever-changing landscapes"
+        }
+      }
+    },
+    {
+      "year": 2013,
+      "category": "spiel",
+      "title": "Hanabi",
+      "description": "Kooperatives Feuerwerk — die eigenen Karten sieht nur das Team",
+      "translations": {
+        "en": {
+          "title": "Hanabi",
+          "description": "A cooperative fireworks show — only your team sees your own cards"
+        }
+      }
+    },
+    {
+      "year": 2014,
+      "category": "spiel",
+      "title": "Camel Up",
+      "description": "Turbulentes Wettrennen mit gestapelten Kamelen",
+      "translations": {
+        "en": {
+          "title": "Camel Up",
+          "description": "A wild race with stacked, unpredictable camels"
+        }
+      }
+    },
+    {
+      "year": 2015,
+      "category": "spiel",
+      "title": "Colt Express",
+      "description": "Zugüberfall im Wilden Westen mit geplanten Aktionen im 3D-Zug",
+      "translations": {
+        "en": {
+          "title": "Colt Express",
+          "description": "A Wild West train heist with plans acted out in a 3D train"
+        }
+      }
+    },
+    {
+      "year": 2016,
+      "category": "spiel",
+      "title": "Codenames",
+      "description": "Team-Wortspiel: Agenten mit Ein-Wort-Hinweisen enttarnen",
+      "translations": {
+        "en": {
+          "title": "Codenames",
+          "description": "A team word game: unmask agents with one-word clues"
+        }
+      }
+    },
+    {
+      "year": 2017,
+      "category": "spiel",
+      "title": "Kingdomino",
+      "description": "Domino-Legespiel um das schönste Königreich",
+      "translations": {
+        "en": {
+          "title": "Kingdomino",
+          "description": "A domino-style tile game to build the finest kingdom"
+        }
+      }
+    },
+    {
+      "year": 2018,
+      "category": "spiel",
+      "title": "Azul",
+      "description": "Abstraktes Legespiel um portugiesische Fliesenmuster",
+      "translations": {
+        "en": {
+          "title": "Azul",
+          "description": "An abstract tile-laying game inspired by Portuguese azulejos"
+        }
+      }
+    },
+    {
+      "year": 2019,
+      "category": "spiel",
+      "title": "Just One",
+      "description": "Kooperatives Wortraten — doppelte Hinweise fallen weg",
+      "translations": {
+        "en": {
+          "title": "Just One",
+          "description": "A cooperative word-guessing game where duplicate clues are removed"
+        }
+      }
+    },
+    {
+      "year": 2020,
+      "category": "spiel",
+      "title": "Pictures",
+      "description": "Bilder mit Schnürsenkeln, Bauklötzen und Steinen nachbauen",
+      "translations": {
+        "en": {
+          "title": "Pictures",
+          "description": "Recreate images using shoelaces, blocks, and stones"
+        }
+      }
+    },
+    {
+      "year": 2021,
+      "category": "spiel",
+      "title": "MicroMacro: Crime City",
+      "description": "Wimmelbild-Krimi: Fälle auf einer riesigen Stadtkarte lösen",
+      "translations": {
+        "en": {
+          "title": "MicroMacro: Crime City",
+          "description": "A hidden-picture crime mystery on a giant city map"
+        }
+      }
+    },
+    {
+      "year": 2022,
+      "category": "spiel",
+      "title": "Cascadia",
+      "description": "Ruhiges Legespiel um Landschaften und Tiere Nordamerikas",
+      "translations": {
+        "en": {
+          "title": "Cascadia",
+          "description": "A relaxing tile-laying game of North American wildlife and landscapes"
+        }
+      }
+    },
+    {
+      "year": 2023,
+      "category": "spiel",
+      "title": "Dorfromantik – Das Brettspiel",
+      "description": "Kooperativ idyllische Dorflandschaften puzzeln",
+      "translations": {
+        "en": {
+          "title": "Dorfromantik: The Board Game",
+          "description": "Cooperatively piece together idyllic village landscapes"
+        }
+      }
+    },
+    {
+      "year": 2024,
+      "category": "spiel",
+      "title": "Sky Team",
+      "description": "Kooperative Flugzeuglandung für genau zwei im Cockpit",
+      "translations": {
+        "en": {
+          "title": "Sky Team",
+          "description": "A cooperative game for exactly two pilots landing a plane"
+        }
+      }
+    },
+    {
+      "year": 2025,
+      "category": "spiel",
+      "title": "Bomb Busters",
+      "description": "Kooperativ die richtigen Drähte kappen und Bomben entschärfen",
+      "translations": {
+        "en": {
+          "title": "Bomb Busters",
+          "description": "Cooperatively cut the right wires and defuse the bombs"
+        }
+      }
+    },
+    {
+      "year": 2011,
+      "category": "kennerspiel",
+      "title": "7 Wonders",
+      "description": "Zivilisationen über drei Zeitalter draften",
+      "translations": {
+        "en": {
+          "title": "7 Wonders",
+          "description": "Draft civilizations across three ages"
+        }
+      }
+    },
+    {
+      "year": 2012,
+      "category": "kennerspiel",
+      "title": "Village",
+      "description": "Dorfleben über Generationen — die Zeit fordert ihren Tribut",
+      "translations": {
+        "en": {
+          "title": "Village",
+          "description": "Village life across generations — time takes its toll"
+        }
+      }
+    },
+    {
+      "year": 2013,
+      "category": "kennerspiel",
+      "title": "Die Legenden von Andor",
+      "description": "Kooperatives Fantasy-Abenteuer mit erzählten Legenden",
+      "translations": {
+        "en": {
+          "title": "Legends of Andor",
+          "description": "A cooperative fantasy adventure told through narrated legends"
+        }
+      }
+    },
+    {
+      "year": 2014,
+      "category": "kennerspiel",
+      "title": "Istanbul",
+      "description": "Mit Gehilfen durch den Basar zum reichsten Händler",
+      "translations": {
+        "en": {
+          "title": "Istanbul",
+          "description": "Race helpers through the bazaar to become the richest merchant"
+        }
+      }
+    },
+    {
+      "year": 2015,
+      "category": "kennerspiel",
+      "title": "Broom Service",
+      "description": "Mutig oder feige? Hexen liefern Tränke durchs Land",
+      "translations": {
+        "en": {
+          "title": "Broom Service",
+          "description": "Bold or brave? Witches deliver potions across the land"
+        }
+      }
+    },
+    {
+      "year": 2016,
+      "category": "kennerspiel",
+      "title": "Isle of Skye: Vom Häuptling zum König",
+      "description": "Landschaften kaufen und verkaufen — den Preis machst du selbst",
+      "translations": {
+        "en": {
+          "title": "Isle of Skye: From Chieftain to King",
+          "description": "Buy and sell landscape tiles — you set the price yourself"
+        }
+      }
+    },
+    {
+      "year": 2017,
+      "category": "kennerspiel",
+      "title": "Exit – Das Spiel",
+      "description": "Escape Room für zu Hause — das Material wird Teil des Rätsels",
+      "translations": {
+        "en": {
+          "title": "Exit: The Game",
+          "description": "An escape room for home — the materials become part of the puzzle"
+        }
+      }
+    },
+    {
+      "year": 2018,
+      "category": "kennerspiel",
+      "title": "Die Quacksalber von Quedlinburg",
+      "description": "Zutaten aus dem Beutel ziehen, ohne den Kessel zu sprengen",
+      "translations": {
+        "en": {
+          "title": "The Quacks of Quedlinburg",
+          "description": "Draw ingredients from the bag without blowing up the cauldron"
+        }
+      }
+    },
+    {
+      "year": 2019,
+      "category": "kennerspiel",
+      "title": "Flügelschlag",
+      "description": "Vögel anlocken und eine Voliere voller Kombos aufbauen",
+      "translations": {
+        "en": {
+          "title": "Wingspan",
+          "description": "Attract birds and build an aviary full of combos"
+        }
+      }
+    },
+    {
+      "year": 2020,
+      "category": "kennerspiel",
+      "title": "Die Crew",
+      "description": "Kooperatives Stichspiel auf Mission zum neunten Planeten",
+      "translations": {
+        "en": {
+          "title": "The Crew",
+          "description": "A cooperative trick-taking game on a mission to the ninth planet"
+        }
+      }
+    },
+    {
+      "year": 2021,
+      "category": "kennerspiel",
+      "title": "Paleo",
+      "description": "Kooperatives Steinzeit-Überleben in Kartenabenteuern",
+      "translations": {
+        "en": {
+          "title": "Paleo",
+          "description": "Cooperative Stone Age survival told through card adventures"
+        }
+      }
+    },
+    {
+      "year": 2022,
+      "category": "kennerspiel",
+      "title": "Living Forest",
+      "description": "Waldgeister sammeln, Bäume pflanzen, das Feuer stoppen",
+      "translations": {
+        "en": {
+          "title": "Living Forest",
+          "description": "Gather forest spirits, plant trees, and stop the fire"
+        }
+      }
+    },
+    {
+      "year": 2023,
+      "category": "kennerspiel",
+      "title": "Challengers!",
+      "description": "Turnier-Deckbau mit acht schnellen Duellen pro Partie",
+      "translations": {
+        "en": {
+          "title": "Challengers!",
+          "description": "Tournament deckbuilding across eight fast duels per game"
+        }
+      }
+    },
+    {
+      "year": 2024,
+      "category": "kennerspiel",
+      "title": "e-Mission",
+      "description": "Kooperativ die Klimakrise abwenden",
+      "translations": {
+        "en": {
+          "title": "e-Mission",
+          "description": "Cooperatively avert the climate crisis"
+        }
+      }
+    },
+    {
+      "year": 2025,
+      "category": "kennerspiel",
+      "title": "Endeavor: Die Tiefsee",
+      "description": "Expeditionen in die Tiefsee zwischen Forschung und Artenschutz",
+      "translations": {
+        "en": {
+          "title": "Endeavor: Deep Sea",
+          "description": "Deep-sea expeditions balancing research and conservation"
+        }
+      }
+    },
+    {
+      "year": 2001,
+      "category": "kinderspiel",
+      "title": "Klondike",
+      "description": "Käfer-Wettlauf mit Würfelglück durchs Gemüsebeet"
+    },
+    {
+      "year": 2002,
+      "category": "kinderspiel",
+      "title": "Maskenball der Käfer",
+      "description": "Zur Käferparty die passenden Kostümteile würfeln"
+    },
+    {
+      "year": 2003,
+      "category": "kinderspiel",
+      "title": "Viva Topo!",
+      "description": "Mäuse wetteifern um den größten Käselaib",
+      "translations": {
+        "en": {
+          "title": "Viva Topo!",
+          "description": "Mice compete for the biggest wheel of cheese"
+        }
+      }
+    },
+    {
+      "year": 2004,
+      "category": "kinderspiel",
+      "title": "Geistertreppe",
+      "description": "Memo-Wettlauf die Geistertreppe hinauf zum Dachboden"
+    },
+    {
+      "year": 2005,
+      "category": "kinderspiel",
+      "title": "Das kleine Gespenst",
+      "description": "Nachts durchs Schloss spuken, ohne entdeckt zu werden"
+    },
+    {
+      "year": 2006,
+      "category": "kinderspiel",
+      "title": "Der schwarze Pirat",
+      "description": "Wettlauf ums Schatzschiff, bevor der schwarze Pirat zuschlägt"
+    },
+    {
+      "year": 2007,
+      "category": "kinderspiel",
+      "title": "Beppo der Bock",
+      "description": "Geschickt balancieren, ohne den Ziegenbock umzuwerfen"
+    },
+    {
+      "year": 2008,
+      "category": "kinderspiel",
+      "title": "Wer war's?",
+      "description": "Kooperativ den Übeltäter im Haus per Fühl-Hinweisen finden"
+    },
+    {
+      "year": 2009,
+      "category": "kinderspiel",
+      "title": "Das magische Labyrinth",
+      "description": "Unsichtbare Mauern per Magnet-Stab ertasten und Schätze finden",
+      "translations": {
+        "en": {
+          "title": "The Magic Labyrinth",
+          "description": "Feel out invisible walls with a magnetic wand to find treasures"
+        }
+      }
+    },
+    {
+      "year": 2010,
+      "category": "kinderspiel",
+      "title": "Diego Drachenzahn",
+      "description": "Zahlenerkennung und Farbenspiel mit dem kleinen Drachen"
+    },
+    {
+      "year": 2011,
+      "category": "kinderspiel",
+      "title": "Da ist der Wurm drin",
+      "description": "Wettlauf der bunten Würmer durchs Gemüsebeet"
+    },
+    {
+      "year": 2012,
+      "category": "kinderspiel",
+      "title": "Schnappt Hubi!",
+      "description": "Elektronische Geisterjagd durchs Spukhaus"
+    },
+    {
+      "year": 2013,
+      "category": "kinderspiel",
+      "title": "Der verzauberte Turm",
+      "description": "Magnetische Schlüsselsuche um die gefangene Prinzessin"
+    },
+    {
+      "year": 2014,
+      "category": "kinderspiel",
+      "title": "Geister, Geister, Schatzsuchmeister!",
+      "description": "Kooperative Schatzsuche im Spukhaus"
+    },
+    {
+      "year": 2015,
+      "category": "kinderspiel",
+      "title": "Spinderella",
+      "description": "Spinnen seilen sich auf flüchtende Ameisen ab"
+    },
+    {
+      "year": 2016,
+      "category": "kinderspiel",
+      "title": "Stone Age Junior",
+      "description": "Sammeln, tauschen und bauen in der Steinzeit",
+      "translations": {
+        "en": {
+          "title": "My First Stone Age",
+          "description": "Gather, trade, and build in the Stone Age"
+        }
+      }
+    },
+    {
+      "year": 2017,
+      "category": "kinderspiel",
+      "title": "Icecool",
+      "description": "Pinguine durch die Schule schnippen",
+      "translations": {
+        "en": {
+          "title": "Ice Cool",
+          "description": "Flick penguins through the school"
+        }
+      }
+    },
+    {
+      "year": 2018,
+      "category": "kinderspiel",
+      "title": "Funkelschatz",
+      "description": "Funkelsteine unter schmelzenden Eissäulen ergattern",
+      "translations": {
+        "en": {
+          "title": "Dragon's Breath",
+          "description": "Grab glittering gems from under melting ice pillars"
+        }
+      }
+    },
+    {
+      "year": 2019,
+      "category": "kinderspiel",
+      "title": "Tal der Wikinger",
+      "description": "Fässer kegeln und mutig Punkte kassieren",
+      "translations": {
+        "en": {
+          "title": "Valley of the Vikings",
+          "description": "Bowl over barrels and boldly grab points"
+        }
+      }
+    },
+    {
+      "year": 2020,
+      "category": "kinderspiel",
+      "title": "Speedy Roll",
+      "description": "Igel-Rennen mit klebrigem Fellball"
+    },
+    {
+      "year": 2021,
+      "category": "kinderspiel",
+      "title": "Dragomino",
+      "description": "Domino für Kleine: Dracheneier entdecken"
+    },
+    {
+      "year": 2022,
+      "category": "kinderspiel",
+      "title": "Zauberberg",
+      "description": "Kugeln sausen den Berg hinab — kooperativ schneller als die Hexen",
+      "translations": {
+        "en": {
+          "title": "Magic Mountain",
+          "description": "Marbles race down the mountain — cooperatively faster than the witches"
+        }
+      }
+    },
+    {
+      "year": 2023,
+      "category": "kinderspiel",
+      "title": "Mysterium Kids: Der Schatz des Kapitän Buh",
+      "description": "Geräusche-Rätsel mit dem Tamburin-Geist"
+    },
+    {
+      "year": 2024,
+      "category": "kinderspiel",
+      "title": "Die magischen Schlüssel",
+      "description": "Schlüssel probieren und Schätze schnappen",
+      "translations": {
+        "en": {
+          "title": "Magic Keys",
+          "description": "Try keys and snatch treasures"
+        }
+      }
+    },
+    {
+      "year": 2025,
+      "category": "kinderspiel",
+      "title": "Topp die Torte",
+      "description": "Zuckerwürfel schätzen und Torten türmen",
+      "translations": {
+        "en": {
+          "title": "Top the Cake!",
+          "description": "Estimate sugar cubes and stack towering cakes"
+        }
+      }
+    }
   ]
 }
