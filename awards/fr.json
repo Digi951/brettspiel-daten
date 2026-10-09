@@ -1,0 +1,351 @@
+{
+  "version": 1,
+  "language": "fr",
+  "updated": "2026-10-09",
+  "awardName": "As d'Or",
+  "categories": [
+    {
+      "id": "annee",
+      "label": "Jeu de l'Année",
+      "short": "Année"
+    },
+    {
+      "id": "expert",
+      "label": "Jeu Expert",
+      "short": "Expert"
+    },
+    {
+      "id": "initie",
+      "label": "Jeu Initié",
+      "short": "Initié"
+    },
+    {
+      "id": "enfant",
+      "label": "Jeu Enfant",
+      "short": "Enfant"
+    }
+  ],
+  "awards": [
+    {
+      "year": 2012,
+      "category": "annee",
+      "title": "Takenoko",
+      "description": "Nourrir le panda et cultiver le bambou dans le jardin de l'empereur"
+    },
+    {
+      "year": 2013,
+      "category": "annee",
+      "title": "Andor",
+      "description": "Aventure coopérative de héros contre les créatures du royaume",
+      "aliases": [
+        "Die Legenden von Andor",
+        "Legends of Andor"
+      ]
+    },
+    {
+      "year": 2014,
+      "category": "annee",
+      "title": "Concept",
+      "description": "Faire deviner des mots à l'aide d'icônes universelles"
+    },
+    {
+      "year": 2015,
+      "category": "annee",
+      "title": "Colt Express",
+      "description": "Braquage de train dans l'Ouest avec des actions programmées"
+    },
+    {
+      "year": 2016,
+      "category": "annee",
+      "title": "Mysterium",
+      "description": "Un fantôme guide des médiums grâce à des cartes illustrées"
+    },
+    {
+      "year": 2017,
+      "category": "annee",
+      "title": "Unlock!",
+      "description": "Escape games coopératifs sur cartes avec application",
+      "aliases": [
+        "Unlock",
+        "Unlock! Escape Adventures"
+      ]
+    },
+    {
+      "year": 2018,
+      "category": "annee",
+      "title": "Azul",
+      "description": "Poser des carreaux de faïence pour décorer le palais"
+    },
+    {
+      "year": 2019,
+      "category": "annee",
+      "title": "The Mind",
+      "description": "Poser des cartes dans l'ordre croissant sans communiquer"
+    },
+    {
+      "year": 2020,
+      "category": "annee",
+      "title": "Oriflamme",
+      "description": "Bluff et influence avec des cartes jouées face cachée"
+    },
+    {
+      "year": 2021,
+      "category": "annee",
+      "title": "MicroMacro: Crime City",
+      "description": "Enquêtes sur une immense carte illustrée de la ville",
+      "aliases": [
+        "Micro Macro: Crime City",
+        "MicroMacro"
+      ]
+    },
+    {
+      "year": 2022,
+      "category": "annee",
+      "title": "7 Wonders Architects",
+      "description": "Construire sa merveille en piochant des cartes de ressources",
+      "aliases": [
+        "7 Wonders: Architects"
+      ]
+    },
+    {
+      "year": 2023,
+      "category": "annee",
+      "title": "Akropolis",
+      "description": "Poser des tuiles pour bâtir la cité grecque la plus riche en points"
+    },
+    {
+      "year": 2024,
+      "category": "annee",
+      "title": "Trio",
+      "description": "Retrouver trois cartes identiques en dévoilant des cartes"
+    },
+    {
+      "year": 2025,
+      "category": "annee",
+      "title": "Odin",
+      "description": "Jeu de cartes rapide et stratégique pour toute la famille"
+    },
+    {
+      "year": 2026,
+      "category": "annee",
+      "title": "Toy Battle"
+    },
+    {
+      "year": 2012,
+      "category": "expert",
+      "title": "Olympos",
+      "description": "Développer sa cité dans la Grèce antique"
+    },
+    {
+      "year": 2013,
+      "category": "expert",
+      "title": "Myrmes",
+      "description": "Gérer une fourmilière entre reine, ouvrières et nurses"
+    },
+    {
+      "year": 2014,
+      "category": "expert",
+      "title": "Bruxelles 1893",
+      "description": "Bâtir la ville de Bruxelles à l'heure de l'Art nouveau"
+    },
+    {
+      "year": 2015,
+      "category": "expert",
+      "title": "Five Tribes",
+      "description": "Déplacer des meeples pour influencer cinq tribus",
+      "aliases": [
+        "Five Tribes: The Djinns of Naqala"
+      ]
+    },
+    {
+      "year": 2016,
+      "category": "expert",
+      "title": "Pandemic Legacy",
+      "description": "Campagne coopérative contre quatre maladies qui évolue de partie en partie",
+      "aliases": [
+        "Pandemic Legacy: Season 1",
+        "Pandemic Legacy: Saison 1"
+      ]
+    },
+    {
+      "year": 2017,
+      "category": "expert",
+      "title": "Scythe",
+      "description": "Conquête d'une Europe de l'Est alternative avec des mechas"
+    },
+    {
+      "year": 2018,
+      "category": "expert",
+      "title": "Terraforming Mars",
+      "description": "Terraformer Mars en jouant des cartes pour sa corporation"
+    },
+    {
+      "year": 2019,
+      "category": "expert",
+      "title": "Detective",
+      "description": "Enquête coopérative sur des affaires criminelles modernes",
+      "aliases": [
+        "Detective: A Modern Crime Board Game"
+      ]
+    },
+    {
+      "year": 2020,
+      "category": "expert",
+      "title": "Res Arcana",
+      "description": "Construire son moteur de ressources magiques"
+    },
+    {
+      "year": 2021,
+      "category": "expert",
+      "title": "The Crew",
+      "description": "Missions coopératives à plis pour atteindre la planète Neuf",
+      "aliases": [
+        "The Crew: Mission Planet Nine",
+        "Die Crew"
+      ]
+    },
+    {
+      "year": 2022,
+      "category": "expert",
+      "title": "Dune: Imperium",
+      "description": "Placement d'ouvriers et deckbuilding dans l'univers de Dune"
+    },
+    {
+      "year": 2023,
+      "category": "expert",
+      "title": "Ark Nova",
+      "description": "Construire et gérer un zoo moderne"
+    },
+    {
+      "year": 2024,
+      "category": "expert",
+      "title": "La Famiglia"
+    },
+    {
+      "year": 2025,
+      "category": "expert",
+      "title": "Kutná Hora",
+      "aliases": [
+        "Kutna Hora"
+      ]
+    },
+    {
+      "year": 2026,
+      "category": "expert",
+      "title": "Civolution"
+    },
+    {
+      "year": 2022,
+      "category": "initie",
+      "title": "Living Forest",
+      "description": "Gagner la faveur des esprits de la forêt en construisant son paquet"
+    },
+    {
+      "year": 2023,
+      "category": "initie",
+      "title": "Challengers!",
+      "description": "Jeu de cartes de draft pour former une équipe de champions",
+      "aliases": [
+        "Challengers"
+      ]
+    },
+    {
+      "year": 2024,
+      "category": "initie",
+      "title": "Faraway",
+      "description": "Voyager et marquer ses points à rebours avec ses cartes",
+      "aliases": [
+        "Far Away"
+      ]
+    },
+    {
+      "year": 2025,
+      "category": "initie",
+      "title": "Behind"
+    },
+    {
+      "year": 2026,
+      "category": "initie",
+      "title": "Zénith",
+      "aliases": [
+        "Zenith"
+      ]
+    },
+    {
+      "year": 2012,
+      "category": "enfant",
+      "title": "Rick le géant"
+    },
+    {
+      "year": 2013,
+      "category": "enfant",
+      "title": "Tino Topini"
+    },
+    {
+      "year": 2014,
+      "category": "enfant",
+      "title": "Riff Raff"
+    },
+    {
+      "year": 2015,
+      "category": "enfant",
+      "title": "La Chasse aux Gigamons"
+    },
+    {
+      "year": 2016,
+      "category": "enfant",
+      "title": "Maître Renard"
+    },
+    {
+      "year": 2017,
+      "category": "enfant",
+      "title": "Kikou le Coucou"
+    },
+    {
+      "year": 2018,
+      "category": "enfant",
+      "title": "Nom d'un renard !"
+    },
+    {
+      "year": 2019,
+      "category": "enfant",
+      "title": "Mr. Wolf"
+    },
+    {
+      "year": 2020,
+      "category": "enfant",
+      "title": "Attrape-Rêves"
+    },
+    {
+      "year": 2021,
+      "category": "enfant",
+      "title": "Dragomino",
+      "description": "Poser des dominos pour aider les bébés dragons à retrouver leur famille"
+    },
+    {
+      "year": 2022,
+      "category": "enfant",
+      "title": "Bubble Stories"
+    },
+    {
+      "year": 2023,
+      "category": "enfant",
+      "title": "Flashback Zombie Kidz"
+    },
+    {
+      "year": 2024,
+      "category": "enfant",
+      "title": "Mon puzzle aventure"
+    },
+    {
+      "year": 2025,
+      "category": "enfant",
+      "title": "Opération Noisettes"
+    },
+    {
+      "year": 2026,
+      "category": "enfant",
+      "title": "L'île des Mookies"
+    }
+  ]
+}

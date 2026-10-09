@@ -30,6 +30,37 @@ ist Pflicht, sobald der Sprachcode auftaucht; `description` ist optional.
 Jährlich nach der Preisverleihung (Juli) die neuen Gewinner ergänzen und
 `updated` aktualisieren. Quelle: https://www.spiel-des-jahres.de
 
+## awards/fr.json
+
+Länderpreis für französische App-Sprache: **As d'Or** (Festival International
+des Jeux, Cannes), Kategorien Jeu de l'Année, Jeu Expert, Jeu Initié, Jeu Enfant,
+Jahrgänge ab 2012 (Initié ab 2022). Die App lädt die Datei nur, wenn ihre
+Sprache `fr` ist; alle anderen Sprachen bleiben beim Spiel des Jahres. Ein 404
+bedeutet „kein Länderpreis für diese Sprache".
+
+```json
+{ "version": 1, "language": "fr", "updated": "YYYY-MM-DD",
+  "awardName": "As d'Or",
+  "categories": [ { "id": "annee", "label": "Jeu de l'Année", "short": "Année" } ],
+  "awards": [
+    { "year": 2023, "category": "annee", "title": "Akropolis",
+      "description": "…", "aliases": ["…"] }
+  ] }
+```
+
+- `categories` bestimmt Reihenfolge und Tab-Beschriftung in der App (`short`
+  im Picker, `label` in der Wunschlisten-Notiz). Einträge mit einer `category`,
+  die in `categories` fehlt, überspringt die App.
+- Titel und Beschreibung sind direkt französisch (kein `translations`-Block).
+- `description` optional: nur bei sicher bekannten Spielen, sonst weglassen.
+- `aliases` optional, nur fürs Matching gegen Sammlung/Wunschliste.
+- Expert hieß 2012–2015 „Grand Prix du Jury" und läuft hier unter `expert`.
+  Der „Prix du Jury" dieser Jahre ist nicht enthalten.
+- **Pflege:** jährlich im **Februar/März** nach dem Festival in Cannes (nicht
+  im Juli). Quelle: https://www.festivaldesjeux-cannes.com/label-as-d-or/palmares/
+  plus eine zweite Quelle zur Gegenprobe; `updated` setzen und die gebündelte
+  Kopie `Resources/awards-fr.json` der App synchron halten.
+
 ## Kompatibilitäts-Kontrakt
 
 - Bestehende Felder werden **nie umbenannt oder entfernt**, nur ergänzt.
