@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "language": "es",
+  "updated": "2026-10-09",
+  "awardName": "Premio JdA",
+  "categories": [
+    {
+      "id": "jda",
+      "label": "Juego del Año",
+      "short": "Juego del Año"
+    }
+  ],
+  "awards": [
+    {
+      "year": 2012,
+      "category": "jda",
+      "title": "Santiago de Cuba",
+      "description": "Comerciar y construir en el puerto de Santiago de Cuba"
+    },
+    {
+      "year": 2013,
+      "category": "jda",
+      "title": "Las leyendas de Andor",
+      "description": "Aventura cooperativa de héroes que defienden el reino",
+      "aliases": [
+        "Andor",
+        "Die Legenden von Andor",
+        "Legends of Andor"
+      ]
+    },
+    {
+      "year": 2014,
+      "category": "jda",
+      "title": "Jaipur",
+      "description": "Duelo de comerciantes para dos jugadores"
+    },
+    {
+      "year": 2015,
+      "category": "jda",
+      "title": "Colt Express",
+      "description": "Atraco a un tren en el Oeste con acciones programadas"
+    },
+    {
+      "year": 2016,
+      "category": "jda",
+      "title": "Pandemic Legacy",
+      "description": "Campaña cooperativa contra cuatro enfermedades que cambia partida a partida",
+      "aliases": [
+        "Pandemic Legacy: Season 1",
+        "Pandemic Legacy: Primera temporada"
+      ]
+    },
+    {
+      "year": 2017,
+      "category": "jda",
+      "title": "Dice Forge",
+      "description": "Forjar los dados de los dioses para ganar gloria"
+    },
+    {
+      "year": 2018,
+      "category": "jda",
+      "title": "Azul",
+      "description": "Colocar azulejos para decorar el palacio"
+    },
+    {
+      "year": 2019,
+      "category": "jda",
+      "title": "El Dorado",
+      "description": "Carrera hacia la ciudad perdida con construcción de mazo"
+    },
+    {
+      "year": 2020,
+      "category": "jda",
+      "title": "La Tripulación",
+      "description": "Misiones cooperativas de bazas en busca del noveno planeta",
+      "aliases": [
+        "The Crew",
+        "The Crew: Mission Planet Nine",
+        "Die Crew"
+      ]
+    },
+    {
+      "year": 2021,
+      "category": "jda",
+      "title": "Kingdom Builder",
+      "description": "Colocar casas en el terreno según las cartas de paisaje"
+    },
+    {
+      "year": 2022,
+      "category": "jda",
+      "title": "Hibachi"
+    },
+    {
+      "year": 2023,
+      "category": "jda",
+      "title": "Scout",
+      "description": "Montar un espectáculo de circo con cartas de dos valores"
+    },
+    {
+      "year": 2024,
+      "category": "jda",
+      "title": "5 Minute Dungeon",
+      "description": "Mazos de cartas cooperativos contra el reloj en cinco minutos"
+    },
+    {
+      "year": 2025,
+      "category": "jda",
+      "title": "Caza Bombas",
+      "description": "Cooperativo para cortar los cables correctos y desactivar bombas",
+      "aliases": [
+        "Bomb Busters"
+      ]
+    }
+  ]
+}

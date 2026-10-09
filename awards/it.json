@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "language": "it",
+  "updated": "2026-10-09",
+  "awardName": "Gioco dell'Anno",
+  "categories": [
+    {
+      "id": "anno",
+      "label": "Gioco dell'Anno",
+      "short": "Anno"
+    }
+  ],
+  "awards": [
+    {
+      "year": 2013,
+      "category": "anno",
+      "title": "Augustus",
+      "description": "Riempire una tombola di obiettivi come legionario romano"
+    },
+    {
+      "year": 2014,
+      "category": "anno",
+      "title": "Piccolo Principe",
+      "description": "Costruire il proprio pianeta con tessere, ispirato al romanzo di Saint-Exupéry",
+      "aliases": [
+        "Le Petit Prince: Fabrique-moi une planète",
+        "The Little Prince: Make Me a Planet"
+      ]
+    },
+    {
+      "year": 2015,
+      "category": "anno",
+      "title": "Colt Express",
+      "description": "Rapina al treno nel Far West con azioni programmate"
+    },
+    {
+      "year": 2016,
+      "category": "anno",
+      "title": "Pozioni esplosive",
+      "description": "Raccogliere biglie e preparare pozioni con reazioni a catena",
+      "aliases": [
+        "Potion Explosion"
+      ]
+    },
+    {
+      "year": 2017,
+      "category": "anno",
+      "title": "Kingdomino",
+      "description": "Piazzare domino per costruire il proprio regno"
+    },
+    {
+      "year": 2018,
+      "category": "anno",
+      "title": "Flamme Rouge",
+      "description": "Gara ciclistica con un mazzo di carte per ogni corridore"
+    },
+    {
+      "year": 2019,
+      "category": "anno",
+      "title": "El Dorado",
+      "description": "Corsa verso la città perduta con deckbuilding"
+    },
+    {
+      "year": 2020,
+      "category": "anno",
+      "title": "Kill the Unicorns"
+    },
+    {
+      "year": 2021,
+      "category": "anno",
+      "title": "My City",
+      "description": "Costruire una città in una campagna legacy con tessere"
+    },
+    {
+      "year": 2022,
+      "category": "anno",
+      "title": "Le cronache di Avel",
+      "description": "Avventura cooperativa per 1-4 giocatori"
+    },
+    {
+      "year": 2023,
+      "category": "anno",
+      "title": "Challengers!",
+      "description": "Draft di carte per formare la squadra di campioni",
+      "aliases": [
+        "Challengers"
+      ]
+    },
+    {
+      "year": 2024,
+      "category": "anno",
+      "title": "Pianeti Sconosciuti",
+      "description": "Costruire il proprio pianeta piazzando tessere sul tabellone",
+      "aliases": [
+        "Planet Unknown"
+      ]
+    },
+    {
+      "year": 2025,
+      "category": "anno",
+      "title": "Botanicus"
+    }
+  ]
+}
