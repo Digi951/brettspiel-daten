@@ -68,17 +68,19 @@ Kategorie (die App blendet dann die Tab-Leiste aus; ist das Kategorie-`label`
 gleich dem `awardName`, steht die Kategorie nicht doppelt in der Notiz):
 
 - **es** — *Premio JdA* (Juego del Año en España), Jurado JdA, ab 2012.
-  Quelle: https://premio-jda.es (Beiträge „Premio JdA <Jahr>"). Der Kinderpreis
+  Quelle: https://premio-jda.es (Beiträge „Premio JdA <Jahr>"; die Seite war zeitweise
+  leer, dann über das Webarchiv lesen) plus Presse zur Gegenprobe. Der Kinderpreis
   JdAI existiert erst seit 2024 und ist (noch) nicht enthalten.
 - **it** — *Gioco dell'Anno* (Lucca Comics & Games), erstmals 2013 vergeben.
   Quelle: https://www.giocodellanno.it/albo-doro-gioco-dellanno/. Rollenspiel-,
   Designer- und Sonderpreise sind bewusst nicht enthalten.
 
-**Pflege:** Der Premio JdA wird im **Oktober** vergeben (2025: 12. Oktober), der
-Gioco dell'Anno bei Lucca Comics & Games Ende **Oktober/Anfang November**. Beide
-Jahrgänge 2026 fehlen, bis die Preise vergeben sind. Danach `updated` setzen und
-die gebündelten Kopien `Resources/awards-es.json` / `awards-it.json` der App
-synchron halten.
+**Pflege:** Der Premio JdA wird beim Festival Internacional de Juegos de Córdoba
+vergeben (2025: 12. Oktober, 2026: **6. September**), der Gioco dell'Anno bei
+Lucca Comics & Games Ende **Oktober/Anfang November** (2026: 28.10.–1.11.). Der
+Jahrgang 2026 ist bei **es** eingetragen, bei **it** fehlt er, bis Lucca durch
+ist. Danach `updated` setzen und die gebündelten Kopien
+`Resources/awards-es.json` / `awards-it.json` der App synchron halten.
 
 ## Kompatibilitäts-Kontrakt
 

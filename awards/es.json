@@ -1,7 +1,7 @@
 {
   "version": 1,
   "language": "es",
-  "updated": "2026-10-09",
+  "updated": "2026-10-11",
   "awardName": "Premio JdA",
   "categories": [
     {
@@ -109,6 +109,15 @@
       "description": "Cooperativo para cortar los cables correctos y desactivar bombas",
       "aliases": [
         "Bomb Busters"
+      ]
+    },
+    {
+      "year": 2026,
+      "category": "jda",
+      "title": "Aventuras en Villa Pegatina",
+      "description": "Aventura narrativa en la que el pueblo se transforma partida a partida con pegatinas",
+      "aliases": [
+        "Cozy Stickerville"
       ]
     }
   ]
